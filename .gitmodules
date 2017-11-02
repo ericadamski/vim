@@ -16,3 +16,6 @@
 [submodule "bundle/vim-jsx-improve"]
 	path = bundle/vim-jsx-improve
 	url = git@github.com:neoclide/vim-jsx-improve.git
+[submodule "vim-airline"]
+	path = vim-airline
+	url = git@github.com:vim-airline/vim-airline.git

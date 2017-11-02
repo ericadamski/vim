@@ -21,7 +21,7 @@ set laststatus=2 " for airline
 " noopkat settings
 "============================================================
 syntax on
-" color dracula
+color dracula
 set smartindent
 set clipboard=unnamed " use os clipboard
 set shiftwidth=2 " number of spaces when shift indenting

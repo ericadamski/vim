@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/Sgt-Wikkidoo/Library/Application Support/Übersicht/widgets/top-mem.widget'
+let g:netrw_dirhist_2='/Users/Sgt-Wikkidoo/zealigan/tiger-martial-arts/.git'
+let g:netrw_dirhist_3='/Users/Sgt-Wikkidoo/zealigan/cards/BLE-connect/ble-connect/nativescript-multipeer/.git'
